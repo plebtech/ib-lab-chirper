@@ -40,3 +40,9 @@
 #container {
   /* background-color: #93a1a1; */
 }
+
+.chirp {
+  margin: 3% auto;
+  padding: 1%;
+  border: 1px solid black;
+}

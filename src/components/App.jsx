@@ -1,6 +1,6 @@
-import React from 'react';
+import React, { Component } from 'react';
 import './App.css';
-import Chirp from './Chirp.jsx';
+// import Chirp from './Chirp.jsx';
 import Feed from './Feed.jsx';
 
 function App() {
